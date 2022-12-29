@@ -10,12 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 5616017007036699774}
   - component: {fileID: 5616017007036699775}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Wall 2x1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5616017007036699774
 Transform:
@@ -57,12 +57,12 @@ GameObject:
   - component: {fileID: 5616017007769540452}
   - component: {fileID: 5616017007769540458}
   - component: {fileID: 5616017007769540459}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WallTile (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5616017007769540452
 Transform:
@@ -138,12 +138,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5616017008133239079}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5616017008133239079
 Transform:
@@ -173,12 +173,12 @@ GameObject:
   - component: {fileID: 5616017008745828062}
   - component: {fileID: 5616017008745828060}
   - component: {fileID: 5616017008745828061}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WallTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5616017008745828062
 Transform:

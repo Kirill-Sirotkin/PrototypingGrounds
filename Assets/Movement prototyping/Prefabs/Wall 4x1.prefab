@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 8500304324129749932}
   - component: {fileID: 8500304324129749938}
   - component: {fileID: 8500304324129749939}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WallTile (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8500304324129749932
 Transform:
@@ -94,12 +94,12 @@ GameObject:
   - component: {fileID: 8500304324767279828}
   - component: {fileID: 8500304324767279834}
   - component: {fileID: 8500304324767279835}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WallTile (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8500304324767279828
 Transform:
@@ -176,12 +176,12 @@ GameObject:
   m_Component:
   - component: {fileID: 8500304325167877947}
   - component: {fileID: 8500304325167877940}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Wall 4x1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8500304325167877947
 Transform:
@@ -221,12 +221,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8500304325176930720}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8500304325176930720
 Transform:
@@ -258,12 +258,12 @@ GameObject:
   - component: {fileID: 8500304325739086742}
   - component: {fileID: 8500304325739086740}
   - component: {fileID: 8500304325739086741}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WallTile (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8500304325739086742
 Transform:
@@ -341,12 +341,12 @@ GameObject:
   - component: {fileID: 8500304325965910033}
   - component: {fileID: 8500304325965910039}
   - component: {fileID: 8500304325965910032}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WallTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8500304325965910033
 Transform:

@@ -11,12 +11,12 @@ GameObject:
   - component: {fileID: 1292126439179471461}
   - component: {fileID: 1292126439179471467}
   - component: {fileID: 1292126439179471460}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FloorTile (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1292126439179471461
 Transform:
@@ -94,12 +94,12 @@ GameObject:
   - component: {fileID: 1292126439266743387}
   - component: {fileID: 1292126439266743385}
   - component: {fileID: 1292126439266743386}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FloorTile (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1292126439266743387
 Transform:
@@ -175,12 +175,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1292126439679973800}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Visual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1292126439679973800
 Transform:
@@ -212,12 +212,12 @@ GameObject:
   - component: {fileID: 1292126440056036605}
   - component: {fileID: 1292126440056036547}
   - component: {fileID: 1292126440056036604}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FloorTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1292126440056036605
 Transform:
@@ -294,12 +294,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1292126440194882418}
   - component: {fileID: 1292126440194882419}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Floor 2x2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1292126440194882418
 Transform:
@@ -341,12 +341,12 @@ GameObject:
   - component: {fileID: 1292126441050714704}
   - component: {fileID: 1292126441050714710}
   - component: {fileID: 1292126441050714711}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FloorTile (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1292126441050714704
 Transform:

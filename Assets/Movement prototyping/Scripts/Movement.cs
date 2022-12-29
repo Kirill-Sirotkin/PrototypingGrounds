@@ -1,16 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 namespace PrototypingGrounds
 {
     public class Movement : MonoBehaviour
     {
+        [field: SerializeField] private NavMeshAgent _agent;
+        [field: SerializeField] private Transform _target;
+
         private void Update()
         {
             if (Input.GetKeyDown(KeyCode.W))
             {
-                Debug.Log("Small movement forward");
+                //Debug.Log("Small movement forward");
+                MoveMe(_target.position);
             }
             if (Input.GetKeyDown(KeyCode.A))
             {
@@ -44,7 +49,7 @@ namespace PrototypingGrounds
 
         public void MoveMe(Vector3 targetPosition)
         {
-
+            _agent.SetDestination(targetPosition);
         }
     }
 }
